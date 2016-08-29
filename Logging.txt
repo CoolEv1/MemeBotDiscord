@@ -24,8 +24,3 @@ async def on_member_join(member):
     await client.send_message(server, 'Welcome, {0.mention} to the one and only **{1.name}**!!'.format(member, server))
     await client.send_message(discord.Object(id='218732646291734530'), ':warning: User {} has joined the server' .format(member))
 
-#Random number gen, with capabilities for trips and quads
-def random_with_N_digits(n):
-    range_start = 10**(n-1)
-    range_end = (10**n)-1
-    return randint(range_start, range_end)
