@@ -1,0 +1,4 @@
+To use this bot, on the server side you need:
+Discord python api
+Python 3
+

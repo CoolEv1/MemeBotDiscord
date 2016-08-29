@@ -1,0 +1,17 @@
+ 
+COMMANDS
+
+#test - Spits out a hello world, usually to make sure Meme Bot has been set up properly
+
+#help - executes this command and sends this list to your inbox
+
+#checkem - roll for dubs
+
+#dev - gives you developer info, links to github and other various details
+
+~EASTER EGGS~
+
+Find them yourself ;)
+
+
+*Project based off early version of bepis bot which has no public documentation*

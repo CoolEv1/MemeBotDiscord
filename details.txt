@@ -1,0 +1,4 @@
+ So you want the code eh?
+ visit https://github.com/CoolEv1/MemeBotDiscord/ for more!
+ 
+ *Project based off early version of bepis bot which has no public documentation*
