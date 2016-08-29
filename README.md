@@ -8,3 +8,4 @@ VERSION HISTORY-
 
 0.4a - first public release
 0.5a - text and compatibility fixes (with logging temp removed)
+0.5f - emergency fix of 0.5a
