@@ -1,7 +1,7 @@
  
 COMMANDS
 
-#test - Spits out a hello world, usually to make sure Meme Bot has been set up properly
+#test - Spits out a hello world, usually to make sure Bottimus has been set up properly
 
 #help - executes this command and sends this list to your inbox
 
